@@ -1,5 +1,5 @@
 <h2>Basic Instabot with Python 3.10</h2>
-
+[![Pyversions](https://img.shields.io/pypi/pyversions/ibm-analytics-engine-python.svg?style=flat-square)](https://pypi.python.org/pypi/ibm-analytics-engine-python)
 
 <p>made with requests <b><i>not selenium</i></b></p>
 <hr>
