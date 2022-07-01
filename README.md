@@ -1,5 +1,5 @@
 <h2>Basic Instabot with Python 3.10</h2>
-![image](https://user-images.githubusercontent.com/62906693/176912364-7a43e3dd-a9c2-4b76-97e3-c4baef40f7f6.png)
+<img src = "![image](https://user-images.githubusercontent.com/62906693/176912364-7a43e3dd-a9c2-4b76-97e3-c4baef40f7f6.png)">
 
 <p>made with requests <b><i>not selenium</i></b></p>
 <hr>
