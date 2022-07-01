@@ -1,5 +1,7 @@
-<h3>Basic Instabot with Python</h3>
+<h3>Basic Instabot with Python 3.10</h3>
+[![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
 <p>made with requests <b><i>not selenium</i></b></p>
+<hr>
 <h4>Features</h4>
 <ul>
 <li>Get User Info(followings, followers, email, etc.)</li>
