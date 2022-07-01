@@ -4,8 +4,8 @@ import random
 import copy
 
 
-import utils as utils
-import constant as constant
+import utils
+import constant
 
 
 class Instabot:
