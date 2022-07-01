@@ -7,4 +7,4 @@
 <li><b>No post operations<b></li>
 </ul>
 <hr>
-<p><b>NOTE:</b>This bot is no longer supported and tested so you may encounter bugs.</p>
+<p><b>NOTE:</b> This bot is no longer supported and tested so you may encounter bugs.</p>
