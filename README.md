@@ -1,5 +1,5 @@
 <h3>Basic Instabot with Python</h3>
-<p>made with requests <i>not selenium<i></p>
+<p>made with requests <b><i>not selenium</i></b></p>
 <h4>Features</h4>
 <ul>
 <li>Get User Info(followings, followers, email, etc.)</li>
