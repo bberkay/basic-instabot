@@ -1,4 +1,4 @@
-<h2><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Basic Instabot with Python 3.10</h2>
+<h2>Basic Instabot with Python 3.10</h2>
 
 
 <p>made with requests <b><i>not selenium</i></b></p>
