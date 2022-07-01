@@ -1,0 +1,41 @@
+{
+  "user_data": {
+    "avatar": "[profile_pic_url_hd]",
+    "name": "[full_name]",
+    "username": "[username]",
+    "follower_count": "[edge_followed_by][count]",
+    "following_count": "[edge_follow][count]",
+    "biography": "[biography]",
+    "is_verified": "[is_verified]",
+    "is_privated": "[is_private]",
+    "is_professional": "[is_professional_account]",
+    "professional_tag": "[category_enum]",
+    "post_count":"[edge_owner_to_timeline_media][count]",
+    "saved_media_count":"[edge_saved_media][count]"
+  },
+  "user_follows":{
+    "user":"[data][data][x][text]"
+  },
+  "user_posts":{
+    "id": "[pk]", 
+    "url": "[code]", 
+    "comments": "[preview_comments][x][user_id&text]", 
+    "comment_count": "[comment_count]", 
+    "like_count": "[like_count]", 
+    "likes": "[likers][x][pk]", 
+    "caption": "[caption][text]", 
+    "carousel_media": "[carousel_media][x][image_versions2][x][candidates][x][url]", 
+    "carousel_media_tags": "[carousel_media][x][fb_user_tags][0][in][x]", 
+    "carousel_media_type": "[carousel_media][x][media_type]", 
+    "images": "[image_versions2][candidates][0][url]", 
+    "images_tags": "[fb_user_tags][in][x]", 
+    "images_media_type": "[media_type]",
+    "video":"[video_versions][0][url]"
+  },
+  "user_stories":{
+    "id":"[id]",
+    "media_count":"[media_count]",
+    "images":"[items][x][image_versions2][candidates][0][url]",
+    "videos":"[items][x][video_versions][0][url]"
+  }
+}
