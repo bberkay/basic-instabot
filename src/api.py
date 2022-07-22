@@ -15,4 +15,4 @@ class Instabot:
         return opt_result
 
     def getAnalysis(self) -> dict:
-        return self.__runAnalysis
+        return self.__runAnalysis()
